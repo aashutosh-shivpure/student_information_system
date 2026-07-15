@@ -1,0 +1,105 @@
+-_.-._.-._- STUDENT INFORMATION SYSTEM -_.-._.-._-
+--------------------------------------------------
+1 for Add New Student
+2 for View All Students
+3 for Search Student
+4 for Update Student
+5 for Exit
+
+Enter your choice: 1
+-_.-._.-._- ADD NEW STUDENT -_.-._.-._-
+Enter Student ID: 1001
+Enter Name: John
+Enter Age: 23
+Enter Grade: 98
+Enter Contact: 9028494739
+Student added successfully
+
+-_.-._.-._- STUDENT INFORMATION SYSTEM -_.-._.-._-
+--------------------------------------------------
+1 for Add New Student
+2 for View All Students
+3 for Search Student
+4 for Update Student
+5 for Exit
+
+Enter your choice: 1
+-_.-._.-._- ADD NEW STUDENT -_.-._.-._-
+Enter Student ID: 1003
+Enter Name: william
+Enter Age: 34
+Enter Grade: 90
+Enter Contact: 9808797689
+Student added successfully
+
+-_.-._.-._- STUDENT INFORMATION SYSTEM -_.-._.-._-
+--------------------------------------------------
+1 for Add New Student
+2 for View All Students
+3 for Search Student
+4 for Update Student
+5 for Exit
+
+Enter your choice: 2
+-----------------------------------
+Student Id: 1001
+Student Name: John
+Student Age: 23
+Student Grade: 98.0
+Student Contact: 9028494739
+-----------------------------------
+Student Id: 1003
+Student Name: william
+Student Age: 34
+Student Grade: 90.0
+Student Contact: 9808797689
+
+-_.-._.-._- STUDENT INFORMATION SYSTEM -_.-._.-._-
+--------------------------------------------------
+1 for Add New Student
+2 for View All Students
+3 for Search Student
+4 for Update Student
+5 for Exit
+
+Enter your choice: 3
+Enter Student Id
+1003
+
+Student Found:
+Id: 1003
+Name: William
+Age: 34
+Grade: 90.0
+Contact: 9808797689
+
+-_.-._.-._- STUDENT INFORMATION SYSTEM -_.-._.-._-
+--------------------------------------------------
+1 for Add New Student
+2 for View All Students
+3 for Search Student
+4 for Update Student
+5 for Exit
+
+Enter your choice: 4
+Enter Student Id Which you want to Update: 
+1003
+Student Found Successfully!! :
+So now give new updated Data
+
+Enter Name: Max
+Enter Age: 34
+Enter Grade: 98
+Enter Contact: 9023892390
+Student Updated Successfully
+
+-_.-._.-._- STUDENT INFORMATION SYSTEM -_.-._.-._-
+--------------------------------------------------
+1 for Add New Student
+2 for View All Students
+3 for Search Student
+4 for Update Student
+5 for Exit
+
+Enter your choice: 5
+YOU ARE SUCCESSFULLY OUT FORM STUDENT INFORMATION SYSTEM, THANKS FOR VISIT!!
